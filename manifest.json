@@ -1,7 +1,7 @@
 {
   "name": "Ritas random password generator",
   "short_name": "RitasPasswords",
-  "start_url": "index.html",
+  "start_url": "https://ritasrandompasswordgenerator.netlify.app/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
