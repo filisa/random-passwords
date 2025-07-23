@@ -32,7 +32,7 @@ h1 {
 
 .green {
     color: #10B981;
-    padding-bottom: 5px;
+    line-height: 25px;
 }
 @font-face {
     font-family: 'karla'; /*a name to be used later*/
