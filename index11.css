@@ -2,6 +2,7 @@ body {
     margin: 0;
     background-color: #ECFDF5;
     padding-left: 52px;
+    margin-top: 50px;
 }
 
 h1 {
@@ -10,7 +11,6 @@ h1 {
     font-weight: 800;
     font-style: ExtraBold;
     font-size: 40px;
-    leading-trim: NONE;
     line-height: 15px;
     width: 354;
     color: #111827;
@@ -20,7 +20,6 @@ h1 {
     font-family: Inter;
     font-weight: 400;
     font-size: 20px;
-    leading-trim: NONE;
     line-height: 28px;
     letter-spacing: 0%;
     color: #6B7280;
