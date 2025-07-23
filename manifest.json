@@ -1,0 +1,15 @@
+{
+  "name": "Ritas random password generator",
+  "short_name": "RitasPasswords",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "Screenshot 2025-07-23 at 20.44.00.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
