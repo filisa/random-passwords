@@ -1,17 +1,19 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# Description 
+This is one of my first solo projects made on Scrimba educational portal.
+The website generates random passwords that are 15 characters long.
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
+## What I learned
+I got a solid understanding of how to manipulate arrays and use the for loop. 
+I improved my understanding of how to work with the DOM
+I had a lot of fun! 
+
+## What I need to add
+I need to add support for mobile browsers, it doesn't look nice on mobile.
+I need to add an option to change the length of the passwords
+I need to add an option to choose if you want letters, numbers or special chars in the password.
+Add a text that you need to tap on the password to copy it
+
 ## About Scrimba
-
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
 - [Our courses](https://scrimba.com/courses)
 - [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
 - [Become a Scrimba Pro member](https://scrimba.com/pricing)
